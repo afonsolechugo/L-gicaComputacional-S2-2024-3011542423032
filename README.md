@@ -1,13 +1,13 @@
 # README
+  
+**Nome:** Afonso Lechugo Isaac  
+**Email:** afonso.isaac@fatec.sp.gov.br  
+**GitHub ID:** afonsolechugo  
+**R.A.:** 3011542423032  
 
-*Nome:* Afonso Lechugo Isaac
-*Email:* afonso.isaac@fatec.sp.gov.br
-*GitHub ID:* afonsolechugo
-*R.A.:* 3011542423032
 
-
-## CODIGO PYTHON
-
+## CODIGO PYTHON  
+  
 print(f" P | Q | R | S | (𝒑→𝒒) | (𝒓→𝒔) | (𝒑∨𝒓) | (𝒒∨𝒔) | ((𝒑→𝒒)∧(𝒓→𝒔)∧(𝒑∨𝒓)) | ((𝒑→𝒒)∧(𝒓→𝒔)∧(𝒑∨𝒓))→(𝒒∨𝒔)")
 n = 0
 for a in range (0,2,1):
